@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1352
     wikipedia: https://en.wikipedia.org/wiki/Rosa_Nouchette_Carey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16080#Uncle-Max
 gutenberg_issued: '2005-06-17'
 gutenberg_type: Text
 identifiers:
