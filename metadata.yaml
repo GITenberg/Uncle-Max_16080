@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Fiction'
 - !lcc 'PR'
+- GITenberg
 title: Uncle Max
 url: http://www.gutenberg.org/ebooks/16080
